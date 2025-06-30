@@ -42,23 +42,26 @@ The dashboard answers key sales questions using multiple Tableau features, simul
 * AWC Logo Cap dominated with $59M+ market cap over 4 years; promotions boosted 2003 sales by $2M+.
 * August consistently saw peak sales, while January remained the lowest-performing month.
 
-🚀 Opportunities for Enhancement
+> 🚀 Opportunities for Enhancement
 1. Optimizing Sales Channel
-* Top sales regions retained their rankings across both online and offline channels, with online sales contributing to a modest revenue increase of up to 3% from 2002 to 2003.
-* There is room to improve online sales through focused promotional campaigns and investment in digital marketing, which can help expand online channels and increase their revenue share.
+   * Top sales regions retained their rankings across both online and offline channels, with online sales contributing to a modest revenue increase of up to 3% from 2002 to 2003.
+   * There is room to improve online sales through focused promotional campaigns and investment in digital marketing, which can help expand online channels and increase their revenue share.
 2. Enhancing Seasonal Strategies
-* Maximizing peak sales in August and addressing the January slump with targeted discounts and new product launches could also result increased sales during these high and low moments.
-3. Regional Expansion plans
-* It has been observed that after the introduction of the offline sales channel to regions such as Australia, Canada, and Europe in 2003, offline stores generated more revenue than the initially available online stores. 
-* The offline business model is likely to work well across all regions. As a result, prioritizing the expansion of offline stores in high-demand regions like Australia, Canada, and Europe is highly relevant and strategic, hence adopting growth strategies from the USA is a way to go!
+   * Maximizing peak sales in August and addressing the January slump with targeted discounts and new product launches could also result increased sales during these high and low moments.
+4. Regional Expansion plans
+   * It has been observed that after the introduction of the offline sales channel to regions such as Australia, Canada, and Europe in 2003, offline stores generated more revenue than the initially available online stores.
+   * The offline business model is likely to work well across all regions. As a result, prioritizing the expansion of offline stores in high-demand regions like Australia, Canada, and Europe is highly relevant and strategic, hence adopting growth strategies from the USA is a way to go!
 4. Improving Average Order Value
-* Following the aftermath of the AOV peaking low in 2003, strategies like bundle offers or loyalty programs can be implemented to boost the average order value and this would likely result in increase in sales amount.
+   * Following the aftermath of the AOV peaking low in 2003, strategies like bundle offers or loyalty programs can be implemented to boost the average order value and this would likely result in increase in sales amount.
 
-📌 Accessing the Dashboard
-The interactive dashboard is hosted on Tableau Public
-🔗 View the Live Dashboard » [Tableau]([https://public.tableau.com/app/profile/emmanuel.favour/viz/Turingproj/DashboardREV?publish=yes](https://public.tableau.com/app/profile/emmanuel.favour/viz/AdventureWorks_17318536459320/DashboardCustomer))
+> 📌 Accessing the Dashboard
+The interactive dashboard is hosted on Tableau Public:
+
+🔗 View the Live Dashboard » [Tableau](https://public.tableau.com/app/profile/emmanuel.favour/viz/AdventureWorks_17318536459320/DashboardCustomer)
+
 🔗 View the SQL codes: [Sql](https://docs.google.com/spreadsheets/d/1YvwHfJE-18N7Y4WVYGI8RR5Uzh3BC3vQUeLpYwZxyIw/edit?gid=210191788#gid=210191788)
-🔗 View Presentation slides to the executives [here](https://docs.google.com/presentation/d/1TxDfi9OPTitYN_Ou2DfqD2R_y9Bqj7euNGqMFTwOUsM/edit#slide=id.p2)
+
+🔗 View Presentation slides to the executives [slides](https://docs.google.com/presentation/d/1TxDfi9OPTitYN_Ou2DfqD2R_y9Bqj7euNGqMFTwOUsM/edit#slide=id.p2)
 
 
 
